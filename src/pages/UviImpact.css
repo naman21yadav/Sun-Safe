@@ -1,0 +1,33 @@
+.impact-title {
+  height: 5rem;
+  max-width: 120rem;
+  font-size: 2.4rem;
+  text-align: center;
+  color: black;
+  margin: 2.4rem auto 2.4rem auto;
+  border-bottom: 2px solid #555;
+}
+
+.graph-desc {
+  font-size: 1.6rem;
+}
+
+.image-container {
+  /* 1140px */
+  max-width: 120rem;
+  padding: 0 3.2rem;
+  margin: 0 auto;
+}
+
+.graph-title {
+  font-size: 2.4rem;
+}
+
+.image-container img {
+  width: 100%; /* Makes the image fully fill the container's width */
+  height: auto; /* Maintains the aspect ratio */
+}
+
+.mb {
+  margin-bottom: 4.6rem;
+}

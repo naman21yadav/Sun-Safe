@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Melbourne",
+    "local_names": {
+      "mr": "मेलबर्न",
+      "sr": "Мелбурн",
+      "ko": "멜버른",
+      "ru": "Мельбурн",
+      "he": "מלבורן",
+      "mi": "Poipiripi",
+      "kn": "ಮೆಲ್ಬೋರ್ನ್",
+      "ar": "ملبورن",
+      "hi": "मॆल्बोर्न्",
+      "ja": "メルボルン",
+      "is": "Melbourne",
+      "es": "Melbourne",
+      "mk": "Мелбурн",
+      "eo": "Melburno",
+      "zh": "墨爾本/墨尔本",
+      "uk": "Мельбурн",
+      "fr": "Melbourne",
+      "sv": "Melbourne",
+      "el": "Μελβούρνη",
+      "fi": "Melbourne",
+      "pl": "Melbourne",
+      "lt": "Melburnas",
+      "de": "Melbourne",
+      "oc": "Melbourne",
+      "en": "Melbourne"
+    },
+    "lat": -37.8142176,
+    "lon": 144.9631608,
+    "country": "AU",
+    "state": "Victoria"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "lat": -37.8142,
+  "lon": 144.9632,
+  "timezone": "Australia/Melbourne",
+  "timezone_offset": 39600,
+  "current": {
+    "dt": 1709814394,
+    "sunrise": 1709755842,
+    "sunset": 1709801518,
+    "temp": 288.95,
+    "feels_like": 288.57,
+    "pressure": 1025,
+    "humidity": 76,
+    "dew_point": 284.73,
+    "uvi": 0,
+    "clouds": 20,
+    "visibility": 10000,
+    "wind_speed": 3.09,
+    "wind_deg": 210,
+    "weather": [
+      {
+        "id": 801,
+        "main": "Clouds",
+        "description": "few clouds",
+        "icon": "02n"
+      }
+    ]
+  }
+}
